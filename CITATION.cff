@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Lung Cancer Radiomics Classification Project"
+authors:
+  - family-names: Sousa
+    given-names: Lara
+repository-code: "https://github.com/LaraSousa34/LabIACD-Project1"
+url: "https://github.com/LaraSousa34/LabIACD-Project1"
+license: MIT
+keywords:
+  - radiomics
+  - lung cancer
+  - machine learning
+  - feature selection
+preferred-citation:
+  type: generic
+  title: "Lung Cancer Radiomics Classification Project"
+  authors:
+    - family-names: Sousa
+      given-names: Lara
+  year: 2026
