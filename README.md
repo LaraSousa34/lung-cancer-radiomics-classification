@@ -1,4 +1,4 @@
-# LabIACD-Project1
+# Lung Cancer Radiomics Classification Project
 
 Lung cancer classification using CT-derived radiomic and clinical features.
 
