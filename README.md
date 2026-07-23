@@ -1,6 +1,6 @@
 # Lung Cancer Radiomics Classification Project
 
-Lung cancer classification using CT-derived radiomic and clinical features.
+Machine learning pipeline for lung cancer classification using CT-derived radiomic features from the LIDC-IDRI dataset.
 
 ## Project Description
 
